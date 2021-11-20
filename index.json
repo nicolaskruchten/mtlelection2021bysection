@@ -1,0 +1,1054 @@
+{
+   "parties":{
+      "3":{"name":"Ensemble Montréal","color":"#e41a1c"},
+      "2":{"name":"Action Montréal","color":"#ff7f00"},
+      "9":{"name":"Indépent","color":"#999999"},
+      "1":{"name":"Projet Montréal","color":"#4daf4a"},
+      "4":{"name":"Mouvement Montréal","color":"#377eb8"},
+      "8":{"name":"PSF","color":"#999999"},
+      "7":{"name":"Équipe Anjou","color":"#984ea3"},
+      "6":{"name":"Local","color":"#984ea3"},
+      "5":{"name":"Équipe LaSalle Team","color":"#984ea3"}
+   },
+   "boroughs":{
+      "0":null,
+      "1":"Ahuntsic-Cartierville",
+      "2":"Anjou",
+      "3":"Côte-des-Neiges–Notre-Dame-de-Grâce",
+      "4":"Lachine",
+      "5":"LaSalle",
+      "6":"L'Île-Bizard–Sainte-Geneviève",
+      "7":"Mercier–Hochelaga-Maisonneuve",
+      "8":"Montréal-Nord",
+      "9":"Outremont",
+      "10":"Pierrefonds-Roxboro",
+      "11":"Plateau-Mont-Royal",
+      "12":"Rivière-des-Prairies–Pointe-aux-Trembles",
+      "13":"Rosemont–La Petite-Patrie",
+      "14":"Saint-Laurent",
+      "15":"Saint-Léonard",
+      "16":"Sud-Ouest",
+      "17":"Verdun",
+      "18":"Ville-Marie",
+      "19":"Villeray–Saint-Michel–Parc-Extension"
+   },
+   "districts":{
+      "0":null,
+      "11":"Sault-au-Récollet",
+      "12":"Saint-Sulpice",
+      "13":"Ahuntsic",
+      "14":"Bordeaux-Cartierville",
+      "21":"Ouest",
+      "22":"Est",
+      "23":"Centre",
+      "31":"Darlington",
+      "32":"Côte-des-Neiges",
+      "33":"Snowdon",
+      "34":"Notre-Dame-de-Grâce",
+      "35":"Loyola",
+      "41":"du Canal",
+      "42":"J.-Émery-Provost",
+      "43":"Fort-Rolland",
+      "51":"Sault-Saint-Louis",
+      "52":"Cecil-P.-Newman",
+      "61":"Pierre-Foretier",
+      "62":"Denis-Benjamin-Viger",
+      "63":"Jacques-Bizard",
+      "64":"Sainte-Geneviève",
+      "71":"Tétreaultville",
+      "72":"Maisonneuve—Longue-Pointe",
+      "73":"Hochelaga",
+      "74":"Louis-Riel",
+      "81":"Marie-Clarac",
+      "82":"Ovide-Clermont",
+      "91":"Claude-Ryan",
+      "92":"Joseph-Beaubien",
+      "93":"Robert-Bourassa",
+      "94":"Jeanne-Sauvé",
+      "101":"Bois-de-Liesse",
+      "102":"Cap-Saint-Jacques",
+      "111":"Mile-End",
+      "112":"DeLorimier",
+      "113":"Jeanne-Mance",
+      "121":"La Pointe-aux-Prairies",
+      "122":"Pointe-aux-Trembles",
+      "123":"Rivière-des-Prairies",
+      "131":"Saint-Édouard",
+      "132":"Étienne-Desmarteau",
+      "133":"Vieux-Rosemont",
+      "134":"Marie-Victorin",
+      "141":"Côte-de-Liesse",
+      "142":"Norman-McLaren",
+      "151":"Saint-Léonard-Est",
+      "152":"Saint-Léonard-Ouest",
+      "161":"Saint-Henri-Est–Petite-Bourgogne–Pointe-Saint-Charles–Griffintown",
+      "162":"Saint-Paul–Émard–Saint-Henri-Ouest",
+      "171":"Champlain—L'Île-des-Soeurs",
+      "172":"Desmarchais-Crawford",
+      "181":"Peter-McGill",
+      "182":"Saint-Jacques",
+      "183":"Sainte-Marie",
+      "191":"Saint-Michel",
+      "192":"François-Perrault",
+      "193":"Villeray",
+      "194":"Parc-Extension"
+   },
+   "posts":{
+      "0,00":{
+         "type":"MV",
+         "nom":"Maire de Montréal",
+         "arrondissement":"0",
+         "district":"0"
+      },
+      "1,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement d'Ahuntsic-Cartierville",
+         "arrondissement":"1",
+         "district":"0"
+      },
+      "1,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral du Sault-au-Récollet",
+         "arrondissement":"1",
+         "district":"11"
+      },
+      "1,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Saint-Sulpice",
+         "arrondissement":"1",
+         "district":"12"
+      },
+      "1,30":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral d'Ahuntsic",
+         "arrondissement":"1",
+         "district":"13"
+      },
+      "1,40":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Bordeaux-Cartierville ",
+         "arrondissement":"1",
+         "district":"14"
+      },
+      "2,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement d'Anjou",
+         "arrondissement":"2",
+         "district":"0"
+      },
+      "2,01":{
+         "type":"CV",
+         "nom":"Conseiller de la ville arrondissement d'Anjou",
+         "arrondissement":"2",
+         "district":"0"
+      },
+      "2,10":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de l'Ouest ",
+         "arrondissement":"2",
+         "district":"21"
+      },
+      "2,20":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de l'Est",
+         "arrondissement":"2",
+         "district":"22"
+      },
+      "2,30":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral du Centre ",
+         "arrondissement":"2",
+         "district":"23"
+      },
+      "3,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de Côte-des-Neiges–Notre-Dame-de-Grâce ",
+         "arrondissement":"3",
+         "district":"0"
+      },
+      "3,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Darlington ",
+         "arrondissement":"3",
+         "district":"31"
+      },
+      "3,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Côte-des-Neiges ",
+         "arrondissement":"3",
+         "district":"32"
+      },
+      "3,30":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Snowdon ",
+         "arrondissement":"3",
+         "district":"33"
+      },
+      "3,40":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Notre-Dame-de-Grâce ",
+         "arrondissement":"3",
+         "district":"34"
+      },
+      "3,50":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Loyola",
+         "arrondissement":"3",
+         "district":"35"
+      },
+      "4,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de Lachine",
+         "arrondissement":"4",
+         "district":"0"
+      },
+      "4,01":{
+         "type":"CV",
+         "nom":"Conseiller de la ville arrondissement de Lachine",
+         "arrondissement":"4",
+         "district":"0"
+      },
+      "4,10":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral du Canal",
+         "arrondissement":"4",
+         "district":"41"
+      },
+      "4,20":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de J.-Émery-Provost ",
+         "arrondissement":"4",
+         "district":"42"
+      },
+      "4,30":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral du Fort-Rolland ",
+         "arrondissement":"4",
+         "district":"43"
+      },
+      "5,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de LaSalle",
+         "arrondissement":"5",
+         "district":"0"
+      },
+      "5,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral du Sault-Saint-Louis",
+         "arrondissement":"5",
+         "district":"51"
+      },
+      "5,11":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral du Sault-Saint-Louis (siège 1)",
+         "arrondissement":"5",
+         "district":"51"
+      },
+      "5,12":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral du Sault-Saint-Louis (siège 2)",
+         "arrondissement":"5",
+         "district":"51"
+      },
+      "5,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Cecil-P.-Newman",
+         "arrondissement":"5",
+         "district":"52"
+      },
+      "5,21":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Cecil-P.-Newman (siège 1)",
+         "arrondissement":"5",
+         "district":"52"
+      },
+      "5,22":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Cecil-P.-Newman (siège 2)",
+         "arrondissement":"5",
+         "district":"52"
+      },
+      "6,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de L'Île-Bizard–Sainte-Geneviève",
+         "arrondissement":"6",
+         "district":"0"
+      },
+      "6,10":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Pierre-Foretier",
+         "arrondissement":"6",
+         "district":"61"
+      },
+      "6,20":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Denis-Benjamin-Viger",
+         "arrondissement":"6",
+         "district":"62"
+      },
+      "6,30":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Jacques-Bizard",
+         "arrondissement":"6",
+         "district":"63"
+      },
+      "6,40":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Sainte-Geneviève",
+         "arrondissement":"6",
+         "district":"64"
+      },
+      "7,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de Mercier–Hochelaga-Maisonneuve",
+         "arrondissement":"7",
+         "district":"0"
+      },
+      "7,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Tétreaultville",
+         "arrondissement":"7",
+         "district":"71"
+      },
+      "7,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Maisonneuve–Longue-Pointe",
+         "arrondissement":"7",
+         "district":"72"
+      },
+      "7,30":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral d'Hochelaga",
+         "arrondissement":"7",
+         "district":"73"
+      },
+      "7,40":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Louis-Riel",
+         "arrondissement":"7",
+         "district":"74"
+      },
+      "8,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de Montréal-Nord",
+         "arrondissement":"8",
+         "district":"0"
+      },
+      "8,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Marie-Clarac ",
+         "arrondissement":"8",
+         "district":"81"
+      },
+      "8,11":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Marie-Clarac",
+         "arrondissement":"8",
+         "district":"81"
+      },
+      "8,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral d'Ovide-Clermont",
+         "arrondissement":"8",
+         "district":"82"
+      },
+      "8,21":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral d'Ovide-Clermont ",
+         "arrondissement":"8",
+         "district":"82"
+      },
+      "9,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement d'Outremont",
+         "arrondissement":"9",
+         "district":"0"
+      },
+      "9,10":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Claude-Ryan",
+         "arrondissement":"9",
+         "district":"91"
+      },
+      "9,20":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Joseph-Beaubien",
+         "arrondissement":"9",
+         "district":"92"
+      },
+      "9,30":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Robert-Bourassa",
+         "arrondissement":"9",
+         "district":"93"
+      },
+      "9,40":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Jeanne-Sauvé",
+         "arrondissement":"9",
+         "district":"94"
+      },
+      "10,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de Pierrefonds-Roxboro",
+         "arrondissement":"10",
+         "district":"0"
+      },
+      "10,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Bois-de-Liesse",
+         "arrondissement":"10",
+         "district":"101"
+      },
+      "10,11":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Bois-de-Liesse",
+         "arrondissement":"10",
+         "district":"101"
+      },
+      "10,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Cap-Saint-Jacques",
+         "arrondissement":"10",
+         "district":"102"
+      },
+      "10,21":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Cap-Saint-Jacques",
+         "arrondissement":"10",
+         "district":"102"
+      },
+      "11,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement du Plateau-Mont-Royal",
+         "arrondissement":"11",
+         "district":"0"
+      },
+      "11,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral du Mile End",
+         "arrondissement":"11",
+         "district":"111"
+      },
+      "11,11":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral du Mile End",
+         "arrondissement":"11",
+         "district":"111"
+      },
+      "11,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de De Lorimier",
+         "arrondissement":"11",
+         "district":"112"
+      },
+      "11,21":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de De Lorimier",
+         "arrondissement":"11",
+         "district":"112"
+      },
+      "11,30":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Jeanne-Mance",
+         "arrondissement":"11",
+         "district":"113"
+      },
+      "11,31":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Jeanne-Mance",
+         "arrondissement":"11",
+         "district":"113"
+      },
+      "12,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles",
+         "arrondissement":"12",
+         "district":"0"
+      },
+      "12,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de La Pointe-aux-Prairies",
+         "arrondissement":"12",
+         "district":"121"
+      },
+      "12,11":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de La Pointe-aux-Prairies ",
+         "arrondissement":"12",
+         "district":"121"
+      },
+      "12,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Pointe-aux-Trembles",
+         "arrondissement":"12",
+         "district":"122"
+      },
+      "12,21":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Pointe-aux-Trembles",
+         "arrondissement":"12",
+         "district":"122"
+      },
+      "12,30":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Rivière-des-Prairies",
+         "arrondissement":"12",
+         "district":"123"
+      },
+      "12,31":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Rivière-des-Prairies",
+         "arrondissement":"12",
+         "district":"123"
+      },
+      "13,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de Rosemont–La Petite-Patrie",
+         "arrondissement":"13",
+         "district":"0"
+      },
+      "13,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Saint-Édouard",
+         "arrondissement":"13",
+         "district":"131"
+      },
+      "13,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral d'Étienne-Desmarteau",
+         "arrondissement":"13",
+         "district":"132"
+      },
+      "13,30":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral du Vieux-Rosemont",
+         "arrondissement":"13",
+         "district":"133"
+      },
+      "13,40":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Marie-Victorin",
+         "arrondissement":"13",
+         "district":"134"
+      },
+      "14,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de Saint-Laurent ",
+         "arrondissement":"14",
+         "district":"0"
+      },
+      "14,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de la Côte-de-Liesse",
+         "arrondissement":"14",
+         "district":"141"
+      },
+      "14,11":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de la Côte-de-Liesse",
+         "arrondissement":"14",
+         "district":"141"
+      },
+      "14,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Norman-McLaren",
+         "arrondissement":"14",
+         "district":"142"
+      },
+      "14,21":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Norman-McLaren",
+         "arrondissement":"14",
+         "district":"142"
+      },
+      "15,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de Saint-Léonard",
+         "arrondissement":"15",
+         "district":"0"
+      },
+      "15,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Saint-Léonard-Est",
+         "arrondissement":"15",
+         "district":"151"
+      },
+      "15,11":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Saint-Léonard-Est",
+         "arrondissement":"15",
+         "district":"151"
+      },
+      "15,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Saint-Léonard-Ouest",
+         "arrondissement":"15",
+         "district":"152"
+      },
+      "15,21":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Saint-Léonard-Ouest",
+         "arrondissement":"15",
+         "district":"152"
+      },
+      "16,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement du Sud-Ouest",
+         "arrondissement":"16",
+         "district":"0"
+      },
+      "16,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Saint-Henri-Est–Petite-Bourgogne–Pointe-Saint-Charles–Griffintown",
+         "arrondissement":"16",
+         "district":"161"
+      },
+      "16,11":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Saint-Henri-Est–Petite-Bourgogne–Pointe-Saint-Charles–Griffintown",
+         "arrondissement":"16",
+         "district":"161"
+      },
+      "16,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Saint-Paul–Émard",
+         "arrondissement":"16",
+         "district":"162"
+      },
+      "16,21":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Saint-Paul–Émard",
+         "arrondissement":"16",
+         "district":"162"
+      },
+      "17,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de Verdun",
+         "arrondissement":"17",
+         "district":"0"
+      },
+      "17,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Champlain−L'Île-des-Soeurs",
+         "arrondissement":"17",
+         "district":"171"
+      },
+      "17,11":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Champlain−L'Île-des-Soeurs (siège 1) ",
+         "arrondissement":"17",
+         "district":"171"
+      },
+      "17,12":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Champlain−L'Île-des-Soeurs (siège 2)",
+         "arrondissement":"17",
+         "district":"171"
+      },
+      "17,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Desmarchais-Crawford",
+         "arrondissement":"17",
+         "district":"172"
+      },
+      "17,21":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Desmarchais-Crawford (siège 1)",
+         "arrondissement":"17",
+         "district":"172"
+      },
+      "17,22":{
+         "type":"CA",
+         "nom":"Conseiller d'arrondissement - District électoral de Desmarchais-Crawford (siège 2)",
+         "arrondissement":"17",
+         "district":"172"
+      },
+      "18,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Peter-McGill",
+         "arrondissement":"18",
+         "district":"181"
+      },
+      "18,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Saint-Jacques",
+         "arrondissement":"18",
+         "district":"182"
+      },
+      "18,30":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Sainte-Marie",
+         "arrondissement":"18",
+         "district":"183"
+      },
+      "19,00":{
+         "type":"MA",
+         "nom":"Maire de l'arrondissement de Villeray–Saint-Michel–Parc-Extension",
+         "arrondissement":"19",
+         "district":"0"
+      },
+      "19,10":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Saint-Michel",
+         "arrondissement":"19",
+         "district":"191"
+      },
+      "19,20":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de François-Perrault",
+         "arrondissement":"19",
+         "district":"192"
+      },
+      "19,30":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Villeray",
+         "arrondissement":"19",
+         "district":"193"
+      },
+      "19,40":{
+         "type":"CV",
+         "nom":"Conseiller de la ville - District électoral de Parc-Extension",
+         "arrondissement":"19",
+         "district":"194"
+      }
+   },
+   "candidates":{
+      "THIBODEAU Gilbert": 2,
+      "CODERRE Denis": 3,
+      "BERNARDO Beverly": 9,
+      "DUVAL Jean": 9,
+      "HU Fang": 9,
+      "JULES Widler": 9,
+      "MOURKES Dimitri": 9,
+      "MÉNARD Luc": 9,
+      "HOLNESS Balarama": 4,
+      "PLANTE Valérie": 1,
+      "RICHARD Antoine": 3,
+      "NANDA Jayoti": 4,
+      "MAUGER Marie-Andrée": 1,
+      "GELLY Nadine": 3,
+      "BOSSÉ Alain": 9,
+      "MCCARTY Eric": 4,
+      "TREMBLAY Véronique": 1,
+      "AIROLDI Jean": 3,
+      "BEAUREGARD Céline-Audrey": 1,
+      "LÉGER Josée": 3,
+      "MACHADO Enrique": 1,
+      "VERRIER Francine": 3,
+      "CLARKE Keeton": 4,
+      "DORAIS Benoit": 1,
+      "HOLLINGER Heidi": 3,
+      "HENRY-KING Stephanie": 4,
+      "SAUVÉ Craig": 1,
+      "ALAM Romean": 3,
+      "DE GRUYTER Patrick": 9,
+      "RAHMAN Nafija": 4,
+      "LI Tan Shan": 1,
+      "SALVAGGIO Vito": 2,
+      "BLACK Christine": 3,
+      "JEAN-FRANÇOIS Carl-Henry": 4,
+      "PROSPER Will": 1,
+      "SALAZAR GOMEZ Fatima Gabriela": 1,
+      "THERMIDOR Philippe": 3,
+      "CELESTIN Daphney": 4,
+      "BOMMIER D-yana": 1,
+      "MORENO Francisco": 2,
+      "LAPERRIÈRE Steven": 3,
+      "BLANCHET Nancy": 5,
+      "WOLDE Theodros": 4,
+      "LEFEBVRE Jean-François": 1,
+      "VALLÉE Lise": 2,
+      "HUSSAIN Naveed": 3,
+      "DESCHAMPS Richard": 5,
+      "BERNIER Jean-François": 1,
+      "KRAVCHUK Ihor": 2,
+      "PERROTTI Anthony": 3,
+      "ROMANO Daniela": 5,
+      "DAHEL Salah-Eddine": 1,
+      "MENDEZ Juan": 3,
+      "AUGER Benoit": 5,
+      "CHUNG Ben": 1,
+      "LAPERRIÈRE Lyne": 3,
+      "SOUNAN Charles": 4,
+      "BOURGEOIS Caroline": 1,
+      "MICHEL Marie-Carmel": 2,
+      "RAPANÀ Giovanni": 3,
+      "DURANDISSE Henri-Robert": 1,
+      "PIERRE-ANTOINE Nathalie": 3,
+      "PAGLIA Joseph": 1,
+      "DESOUSA Alan": 3,
+      "TESSIER Philippe": 9,
+      "ZAKARIA Nassif": 4,
+      "GUILLOTTE Blaise": 1,
+      "NAZARIAN Vana": 3,
+      "MEO Shana": 4,
+      "GOITIANDIA MOORE Tania": 1,
+      "COHEN Jacques": 3,
+      "MAISONNEUVE Valérie": 1,
+      "SARI Abdelhaq": 3,
+      "LÉONARD Mathieu": 1,
+      "POIRIER Jean Marc": 3,
+      "HORACE Fabrice": 4,
+      "MEJIA Ana E": 1,
+      "KARABAJAK Shant": 3,
+      "VAZQUEZ Daniel": 4,
+      "RABOUIN Luc": 1,
+      "BERNIER-EMOND Mélissa": 3,
+      "ZAEZJEV Alexandre": 4,
+      "PLOURDE Marie": 1,
+      "ROULEAU Benoit": 3,
+      "BOLDUC Maggie": 4,
+      "STERLIN Marie": 1,
+      "KOWALSKI Olivia": 3,
+      "CÔTÉ-TURCOTTE Juliette": 9,
+      "GIGUÈRE Marianne": 1,
+      "VALLÉE Hugo": 3,
+      "PARENT Laurence": 1,
+      "SANOGO Bougadari": 2,
+      "ORÉ Martin": 3,
+      "TESSIER John": 4,
+      "NORRIS Alex": 1,
+      "SZARAZ Jean-Pierre": 3,
+      "LESSARD Rebecca": 4,
+      "VILAIN Maeva": 1,
+      "BISSONNET Michel": 3,
+      "TREMBLAY Lili-Anne": 4,
+      "GAETAN Nerlande": 1,
+      "PERRI Dominic": 3,
+      "CONCIATORI Franco": 4,
+      "LARREA Andres": 1,
+      "DE LAROCHELLIÈRE Suzanne": 3,
+      "BATTISTA Mario": 9,
+      "LAHLOU Djamel": 4,
+      "VENTULIERI Dante": 1,
+      "CHARTRAND Éric (Balou)": 3,
+      "PERRONE Nathe": 4,
+      "DOWNEY Sterling": 1,
+      "LOUIS Natacha": 3,
+      "BÉLANGER-RIOUX Rosalie": 9,
+      "GRATTON Benoit": 1,
+      "BERGERON Lili-Anne": 3,
+      "REINGLAS Jonathan": 4,
+      "A. MUNRO Kaïla": 1,
+      "MORRIS Glenda": 3,
+      "JOURNEAU Virginie": 1,
+      "MCSWEEN Daniel": 3,
+      "BARIL Marie-Claude": 1,
+      "GRONDIN Gilles": 3,
+      "LIMOGES François": 1,
+      "MERCIER Roxane": 3,
+      "OLLIVIER Dominique": 1,
+      "SALEM Aref": 3,
+      "MANSOOR Mohammad-Afaaq": 1,
+      "GAGNIER Annie": 3,
+      "TREMBLAY-PERRON Dominik": 1,
+      "HUOT Chantal": 3,
+      "CHÉRY THÉODAT Kassandre": 4,
+      "THUILLIER Émilie": 1,
+      "LESSARD Eric": 2,
+      "NORMANDIN Yves": 3,
+      "GOULET Nathalie": 1,
+      "GENTILE Angela": 3,
+      "BOUKHARI Dallal": 9,
+      "AYALA Paulina": 4,
+      "DRATLER Nathan": 1,
+      "EL KORBI Arij": 3,
+      "VALVANO Giovanni": 4,
+      "BENKHALED Leila": 1,
+      "PARIZEAU Hadrien": 3,
+      "MCCARTY Briana": 4,
+      "ROY Julie": 1,
+      "SÉVIGNY Robert": 2,
+      "BOIVIN ROY Karine": 3,
+      "TULASNE Patricia": 4,
+      "LESSARD-BLAIS Pierre": 1,
+      "ALBERT Murielle": 2,
+      "TAMKO Émilia": 3,
+      "HASSAN-COURNOL Alia": 1,
+      "SAURIOL Clément": 2,
+      "LAVOIE Guillaume": 3,
+      "KAKPOVI Julien": 4,
+      "LAVIGNE LALONDE Laurence": 1,
+      "FUMAGALLI Giuliana": 6,
+      "ROMDHANE Mourad": 3,
+      "POMARES Anastasia": 4,
+      "MUSAU MUELE Martine": 1,
+      "MATHLOUTHI Mariem": 6,
+      "MUKHERJEE Neal": 2,
+      "MONTGOMERY Sue": 6,
+      "PEREZ Lionel": 3,
+      "MONTAGANO Alexander": 6,
+      "KERR Matthew": 4,
+      "KATAHWA Gracia Kasoki": 1,
+      "ORCHARD Dora Caroline": 2,
+      "HARRIS Annalisa": 6,
+      "RETTA Gabriel": 3,
+      "TRANI Gianpaolo": 6,
+      "ORTONA Joe": 9,
+      "DEBELLEFEUILLE Joel": 4,
+      "SOURIAS Despina": 1,
+      "TREMBLAY Eric": 2,
+      "VALLÉE Monique": 3,
+      "PALESTINI Laura": 5,
+      "OLISE Elijah": 4,
+      "ERINDI Anila": 1,
+      "BOURGOIN Catherine": 3,
+      "NOËL Michel": 5,
+      "BLANCO Joe": 4,
+      "DAO Anh": 1,
+      "MORIN Michael Peter": 3,
+      "TROILO Josée": 5,
+      "NGAMALEU Pierre Marc": 1,
+      "DAKOUO Jean Pierre": 2,
+      "HÉNAULT-RATELLE Julien": 3,
+      "DOSSOUVI Priscille": 4,
+      "MIRON Suzie": 1,
+      "GIRARD Vincent": 3,
+      "SAADE Paulo": 4,
+      "CHRISTENSEN Lisa": 1,
+      "CHANDONNET Louis": 2,
+      "LALIBERTÉ Patrick": 3,
+      "COLIN Daphney": 1,
+      "GIGUÈRE Mario": 2,
+      "MARTEL Michel": 3,
+      "DONALD Sam": 4,
+      "VAILLANCOURT Alain": 1,
+      "RUDLOFF Guillaume": 3,
+      "MCCONNELL Tara-Starr": 4,
+      "SIGOUIN Anne-Marie": 1,
+      "ZUNIGA RAMOS Alba": 3,
+      "CORBEIL Philippe": 4,
+      "LAMONTAGNE Julie": 1,
+      "BEIS Dimitrios (Jim)": 3,
+      "SOHAIL Nadeem": 4,
+      "CRUZ-GUTIERREZ Patricio": 1,
+      "CLÉMENT-TALBOT Catherine": 3,
+      "LANNI Marilyn": 4,
+      "CAZAC Irina": 1,
+      "TARAKJIAN Chahi (Sharkie)": 3,
+      "TARIQ Nayab": 4,
+      "PEREZ Mirian": 1,
+      "MÉNARD Réal": 3,
+      "BEAUDIN Ariane": 9,
+      "CALDWELL Éric Alan": 1,
+      "LANGEVIN Benoit": 3,
+      "PATERSON Nic": 4,
+      "LIAMINI Mokhtar": 1,
+      "LEROUX Louise": 3,
+      "MALIK Ahmed": 4,
+      "BÉLANGER Matthieu": 1,
+      "GODBOUT Vianney": 3,
+      "PAUZÉ Jocelyn": 1,
+      "GIANNOU Effie": 3,
+      "ATIE Rana": 9,
+      "PROPHÈTE Jean David": 4,
+      "KABONGO Anne-Marie": 1,
+      "KOLD-TAYLOR Louise": 6,
+      "THORNTON Ashley": 3,
+      "HANDELMAN David": 6,
+      "ARANTES Luciana": 4,
+      "MCQUEEN Peter": 1,
+      "DAHMAN Sallim": 3,
+      "CONSTANTIN Robert": 4,
+      "BLANCO Josefina": 1,
+      "DIAMADOPOULOU Émilia": 3,
+      "DHAHER Manel": 4,
+      "ALNEUS Ericka": 1,
+      "DEHRAOUI Malika": 3,
+      "THOMPSON Shane": 4,
+      "BEAUDRY Robert": 1,
+      "MIRANDA Luis": 7,
+      "MERADI Wassim": 4,
+      "BEAUREGARD Kettly": 1,
+      "HÉNAULT Andrée": 7,
+      "RÉJOUIS Marc II": 4,
+      "PLOURDE François": 1,
+      "MARSOLAIS Kristine": 7,
+      "SHÉRIFI Kadri": 1,
+      "STOHNER France": 6,
+      "MOROZ Sonny": 3,
+      "SOOS Madeleine": 6,
+      "PEÑA Mauro": 4,
+      "ARMONY Victor": 1,
+      "CÔTÉ Josée": 3,
+      "VODANOVIC Maja": 1,
+      "BOUCHER Denis": 3,
+      "CHALATI Nadine": 4,
+      "GRONDIN Vicki": 1,
+      "ANDRÉ Jean-Ricardo": 2,
+      "POULIN Lise": 3,
+      "LAVIGNE André": 9,
+      "DEWAN Curren": 4,
+      "ROULEAU Micheline": 1,
+      "MANDRYK Zbigniew": 2,
+      "SASSEVILLE Serge": 3,
+      "TRAN Daniel": 1,
+      "BOUFFARD Daniel": 2,
+      "CORVIL Josué": 3,
+      "NKAMICANIYE Cynthia": 4,
+      "CHAU Yong-Fat": 1,
+      "OLIVIER Wendy": 6,
+      "PARENTE Mike": 3,
+      "BEKHECHI Nawal": 4,
+      "OUELLET Sylvain": 1,
+      "ZADI Chahrazed": 6,
+      "COLELLA Gaetana": 3,
+      "TOMARAS Dimitrios": 4,
+      "NORMAND Jérôme": 1,
+      "CESAR Patrice": 6,
+      "KOSTARIDES Dimitra": 3,
+      "ROMEO Snowdon": 6,
+      "IKHOUANE Rita": 4,
+      "POPEANU Magda": 1,
+      "DESBOIS Laurent": 3,
+      "TOMLINSON Philipe": 1,
+      "BRAUN Caroline": 3,
+      "LATRAVERSE Simon": 9,
+      "MAGINI Fanny": 1,
+      "TROTTIER Jean-Christophe": 2,
+      "VAUDRIN Daniel": 3,
+      "MIRIELLO Samuel": 4,
+      "DEROS Mary": 3,
+      "LUPIEN Luc": 9,
+      "YOUSUF Mohammad": 4,
+      "MORENCY Geneviève": 1,
+      "KING Leonora": 6,
+      "MONPIERRE Sabine": 6,
+      "VALENZUELA Stephanie": 3,
+      "JEGATHEESWARAN Kamala Thevi": 6,
+      "MCPHERSON Rosemarie": 4,
+      "ALARCO Jérémie": 1,
+      "CÔTÉ Stéphane": 3,
+      "KENNERKNECHT BASTIEN Susan": 4,
+      "MARINACCI Normand": 1,
+      "MARCEAU Suzanne": 3,
+      "ARSLANIAN Caroline": 4,
+      "TOURÉ-DIALLO Fadima": 1,
+      "DUBÉ Marie Josée": 7,
+      "OURAGHI Houda": 1,
+      "MASELLA Simon": 3,
+      "FLANNERY Michèle": 1,
+      "SIMONYIK Kymberley": 3,
+      "BOUKALA Younes": 1,
+      "BÉLANGER Richard": 3,
+      "SAMOSZEWSKI Robert": 4,
+      "DELISLE Geneviève": 1,
+      "POTVIN Marie": 3,
+      "CORBEIL Jean-Marc": 9,
+      "LANCE Jill": 1,
+      "LEBLANC Richard": 7,
+      "SERVANT Claudia": 1,
+      "WILSON Alain": 3,
+      "SOUJAA Manal": 4,
+      "SOUSSAMIAN Stephanie": 1,
+      "GUERTIN Philippe": 3,
+      "FORGET Céline": 9,
+      "PATREAU Valérie": 1,
+      "MYRAND Danielle": 3,
+      "ONORATI Claudio": 4,
+      "DESHAIES Maxime": 1,
+      "ROSENBAUM Joshua": 4,
+      "POLLAK Mindy": 1
+   }
+}
